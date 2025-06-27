@@ -1,1 +1,8 @@
-asdf
+# 서울시 지하철호선별 역별 승하차 인원 정보
+https://data.seoul.go.kr/dataList/OA-12914/S/1/datasetView.do
+
+# 서울시 상권분석서비스(추정매출-상권)
+https://data.seoul.go.kr/dataList/OA-15572/S/1/datasetView.do
+
+두 데이터 모두 "서울 열린데이터광장"에서 다운로드 받았습니다.
+서울시 상권데이터는 데이터가 너무 커서 전처리 전 데이터는 승하차인원데이터만 올려놓겠습니다.
